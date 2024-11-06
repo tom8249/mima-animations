@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mima-animations/static/css/main.730e6e5b.css",
+    "main.js": "/mima-animations/static/js/main.a9dceb98.js",
+    "index.html": "/mima-animations/index.html",
+    "main.730e6e5b.css.map": "/mima-animations/static/css/main.730e6e5b.css.map",
+    "main.a9dceb98.js.map": "/mima-animations/static/js/main.a9dceb98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.730e6e5b.css",
+    "static/js/main.a9dceb98.js"
+  ]
+}
